@@ -5,7 +5,7 @@
 
 
 
-In this project, you will build a comprehensive Expense Budget Tracker while exploring several advanced topics in React and JavaScript. Key concepts covered include:
+In this project, I have built a comprehensive Expense Budget Tracker while exploring several advanced topics in React and JavaScript. Key concepts covered include:
 
 - State Management in React
 - Context API
