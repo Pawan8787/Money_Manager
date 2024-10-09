@@ -1,7 +1,8 @@
 # Speechly Money Manager
 
 ## Introduction
-[Screenshot 2024-10-09 173518](https://github.com/user-attachments/assets/4e647f42-e95d-470a-bbc0-b94a76f6a0d6)
+![Screenshot 2024-10-09 173518](https://github.com/user-attachments/assets/74e39e65-ad03-4582-8bba-b52472d945ba)
+
 
 
 In this project, you will build a comprehensive Expense Budget Tracker while exploring several advanced topics in React and JavaScript. Key concepts covered include:
